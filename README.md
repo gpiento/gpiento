@@ -1,6 +1,8 @@
 ### Hi there 👋
 ---
 ### :hammer_and_wrench: Languages and Tools:
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gpiento&theme=blue-green)
+
 ---
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=gpiento&theme=dark)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpiento&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
