@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+---
+### :hammer_and_wrench: Languages and Tools:
+---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gpiento)](https://git.io/streak-stats)
 <!--
 **gpiento/gpiento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
