@@ -3,6 +3,7 @@
 ### :hammer_and_wrench: Languages and Tools:
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=gpiento&theme=dark)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpiento)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **gpiento/gpiento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
