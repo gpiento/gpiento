@@ -1,12 +1,18 @@
 ### Hi there 👋
 ---
-
+<table width="100%" border="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gpiento&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="gpiento's Stats"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=gpiento&theme=gruvbox&hide_border=true" alt="gpiento's Streak"></td> 
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpiento&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="gpiento's Top Languages"></td>
+  </tr>
+</table>
 <!--
 <table width="100%" border="0">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=gpiento&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="gpiento's Stats"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=gpiento&theme=gruvbox&hide_border=false" alt="gpiento's Streak"></td> 
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpiento&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="gpiento's Top Languages"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gpiento&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="gpiento's Stats"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=gpiento&theme=gruvbox&hide_border=true" alt="gpiento's Streak"></td> 
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpiento&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="gpiento's Top Languages"></td>
   </tr>
 </table>
 
