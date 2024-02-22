@@ -1,8 +1,12 @@
 ### Hi there 👋
 ---
-![gpiento's Stats](https://github-readme-stats.vercel.app/api?username=gpiento&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
-![gpiento's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gpiento&theme=gruvbox&hide_border=false)
-![gpiento's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gpiento&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
+<table width="100%" border="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=gpiento&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="gpiento's Stats"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=gpiento&theme=gruvbox&hide_border=false" alt="gpiento's Streak"></td> 
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpiento&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="gpiento's Top Languages"></td>
+  </tr>
+</table>
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=gpiento&theme=dark)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpiento&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
