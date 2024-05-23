@@ -1,5 +1,15 @@
 ### Hi there 👋
 ---
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Junit](https://img.shields.io/badge/Junit-gold?style=for-the-badge&logo=junit&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Stream Api](https://img.shields.io/badge/stream%20api-red.svg?style=for-the-badge&logo=stream&)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![iDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+---
 <table width="100%" border="0">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=gpiento&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="gpiento's Stats"></td>
