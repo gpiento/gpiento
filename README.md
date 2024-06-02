@@ -1,5 +1,20 @@
 ### Hi there 👋
 ---
+![Java](https://img.shields.io/badge/Java-ea2d2f?style=for-the-badge)
+
+![Spring](https://img.shields.io/badge/Spring-6cb23e?style=for-the-badge&logo=Spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=grey)
+
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-3060a2?style=for-the-badge&logo=css3&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white)
+
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Junit](https://img.shields.io/badge/Junit-gold?style=for-the-badge&logo=junit&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
@@ -25,6 +40,25 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpiento&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="gpiento's Top Languages"></td>
   </tr>
 </table>
+
+![Java](https://img.shields.io/badge/Java-ea2d2f?style=for-the-badge)
+![1С](https://img.shields.io/badge/1С-fef200?style=for-the-badge)
+
+![Spring](https://img.shields.io/badge/Spring-6cb23e?style=for-the-badge&logo=Spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=grey)
+
+![Maven](https://img.shields.io/badge/Maven-grey?style=for-the-badge&logo=apachemaven&logoColor=dc4c2a)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-3060a2?style=for-the-badge&logo=css3&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-24292f?style=for-the-badge&logo=gitlab&logoColor=orange)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gpiento&theme=dark)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpiento&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
