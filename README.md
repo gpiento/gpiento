@@ -4,8 +4,11 @@ Java Developer
 --------------
 I have experience working in the IT field and dream of developing as a software developer. Currently, I am actively learning Java and striving to constantly improve my skills to write clean and efficient code.
 
+My CV:
+[![Hexlet](https://img.shields.io/badge/-cv.resume.io-777799?style=flat-square&logo=Hexlet)](https://cv.hexlet.io/ru/account/resumes/2937)
+
 You can contact me at:
-[![Gmail](https://img.shields.io/badge/-zzzest@gmail.com-009999?style=flat-square&logo=Gmail)](mailto:zzzest@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/gpiento)
+[![Gmail](https://img.shields.io/badge/-zzzest.git@gmail.com-009999?style=flat-square&logo=Gmail)](mailto:zzzest.git@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/gpiento)
 
 
 ---
