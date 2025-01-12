@@ -1,8 +1,10 @@
-Hi 👋, my name is Konstantin! 
+Hi, there! 👋
 =============================
 Java Developer
 --------------
-I have experience working in the IT field and dream of developing as a software developer. Currently, I am actively learning Java and striving to constantly improve my skills to write clean and efficient code.
+I have experience working in the IT field and dream of developing as a software
+developer. Currently, I am actively learning Java and striving to constantly
+improve my skills to write clean and efficient code.
 
 My CV:
 [![Hexlet](https://img.shields.io/badge/-cv.resume.io-777799?style=flat-square&logo=Hexlet)](https://cv.hexlet.io/ru/resumes/2937)
@@ -10,8 +12,23 @@ My CV:
 You can contact me at:
 [![Gmail](https://img.shields.io/badge/-zzzest+github@gmail.com-009999?style=flat-square&logo=Gmail)](mailto:zzzest+github@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/gpiento)
 
-
 ---
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,gradle,docker,git,github,githubactions)](https://skillicons.dev)
+
+<!--
+<div style="display: flex;">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="90" height="90" alt="Java">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" width="90" height="90" alt="Spring">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="90" height="90" alt="Spring Boot">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" width="90" height="90" alt="Hibernate">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" width="90" height="90" alt="Hibernate">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" width="90" height="90" alt="Hibernate">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" width="90" height="90" alt="JUnit">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="90" height="90" alt="JUnit">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="90" height="90" alt="JUnit">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" width="90" height="90" alt="JUnit">
+</div>
+
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/)
@@ -22,7 +39,7 @@ You can contact me at:
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/gpiento/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/gpiento)
 
-<!--
+
 <table width="100%" border="0">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=gpiento&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="gpiento's Stats"></td>
